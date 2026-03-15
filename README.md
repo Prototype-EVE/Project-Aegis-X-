@@ -1,7 +1,7 @@
 # 🛡️ Project Aegis-X: Sovereign Security Bridge
 ### *Core Infrastructure of Project Phylax*
 
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![License: Sovereign Peace](https://img.shields.io/badge/License-Sovereign%20Peace-gold.svg)
 ![Security: SHA-256](https://img.shields.io/badge/Security-SHA--256-blue.svg)
 ![Environment: macOS M2](https://img.shields.io/badge/Environment-macOS_M2-black.svg)
 
@@ -12,28 +12,30 @@ This bridge provides a high-sensitivity "cockpit" for monitoring system integrit
 
 ---
 
-## 🚀 Key Features
+## 📜 Licensing: Sovereign Peace
+This project is released under the **Sovereign Peace License**. 
+* **Purpose:** To ensure the technology is used to empower individual sovereignty and maintain digital peace.
+* **Restriction:** Any use of this code to infringe upon personal privacy or decentralized autonomy is a violation of this license.
 
-* **🛡️ SHA-256 Integrity Monitoring:** Real-time cryptographic validation of system logs. Any unauthorized modification triggers an immediate system lockdown.
-* **🕶️ Stealth-Mode Cockpit:** A high-visibility, "Green-on-Black" terminal interface designed for low-distraction, high-intensity security operations.
-* **🕵️ Automated Forensic Lab:** Integrated `aegis analyze` command to extract malicious payloads and indicators of compromise (IoC) from archived breaches.
-* **📋 Mission Reporting:** Automated generation of `MISSION_SUMMARY.md` reports, providing an audit trail of neutralized threats and system health.
-* **🛠️ Incident Recovery:** One-touch `aegis fix` protocol to archive evidence and reset the forensic chain.
+---
+
+## 🚀 Key Features
+* **🛡️ SHA-256 Integrity Monitoring:** Real-time cryptographic validation of system logs.
+* **🕶️ Stealth-Mode Cockpit:** High-visibility, "Green-on-Black" terminal interface.
+* **🕵️ Automated Forensic Lab:** Integrated `aegis analyze` command for IoC extraction.
+* **📋 Mission Reporting:** Automated `MISSION_SUMMARY.md` generation.
 
 ---
 
 ## 🛠️ Technical Stack & Concepts
-This project demonstrates core competencies required for **CompTIA A+, Network+, and Security+** certifications:
-
-* **Integrity Control:** Hashing algorithms used to ensure non-repudiation.
-* **Incident Response:** Standardized identification, containment, and recovery workflows.
-* **Scripting & Automation:** Python 3.x and Zsh automation for security operations.
-* **Configuration Management:** Version-controlled infrastructure and environment hardening.
+This project demonstrates core competencies for **CompTIA A+, Network+, and Security+**:
+* **Integrity Control:** Hashing algorithms for non-repudiation.
+* **Incident Response:** Standardized containment and recovery.
+* **Automation:** Python 3.x and Zsh security orchestration.
 
 ---
 
 ## 📥 Installation & Quick Start
-
 ### 1. Clone the Bridge
 ```bash
 git clone [https://github.com/Prototype-EVE/Project-Aegis-X-.git](https://github.com/Prototype-EVE/Project-Aegis-X-.git)
