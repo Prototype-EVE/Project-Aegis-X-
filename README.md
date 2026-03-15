@@ -36,6 +36,17 @@ This project demonstrates core competencies for **CompTIA A+, Network+, and Secu
 * **Incident Response:** Standardized containment and recovery.
 * **Automation:** Python 3.x and Zsh security orchestration.
 
+* ## 🇺🇸 VII. Supply Chain Sovereignty (US-Only Mandate)
+
+Project Aegis-X adheres to a **Strict US-Source Procurement Policy**. To eliminate the risk of "Hardware Trojans" or foreign "Kill-Switches," the following procurement standards are enforced:
+
+* **Zero-Adversarial Content:** No components from Tier-1 adversarial nations are permitted in the active signal chain.
+* **Trusted Foundries:** Priority is given to hardware utilizing US-based semiconductor foundries (e.g., GlobalFoundries, Intel Foundry Services).
+* **Tactical Preference:**
+    * **SDR:** Epiq Solutions Sidekiq (M.2) or Ettus USRP Series.
+    * **RF Amplification:** NuWaves RF (Ohio-based).
+    * **Cabling:** LMR-standard shielded cables sourced from US distributors.
+
 ---
 
 ## 📥 Installation & Quick Start
@@ -43,3 +54,5 @@ This project demonstrates core competencies for **CompTIA A+, Network+, and Secu
 ```bash
 git clone [https://github.com/Prototype-EVE/Project-Aegis-X-.git](https://github.com/Prototype-EVE/Project-Aegis-X-.git)
 cd Project-Aegis-X-
+
+
