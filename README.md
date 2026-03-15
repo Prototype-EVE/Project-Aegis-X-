@@ -46,7 +46,13 @@ Project Aegis-X adheres to a **Strict US-Source Procurement Policy**. To elimina
     * **SDR:** Epiq Solutions Sidekiq (M.2) or Ettus USRP Series.
     * **RF Amplification:** NuWaves RF (Ohio-based).
     * **Cabling:** LMR-standard shielded cables sourced from US distributors.
+## ⚖️ VIII. Compliance & Ethical Proving Grounds
 
+Aegis-X is a **Defensive Instrument**. To ensure legal and ethical integrity, all active signal testing follows the **Shielded-Primary Protocol**:
+
+1. **Faraday Isolation:** All Resonant Pulse testing occurs in a 100dB attenuated Faraday enclosure.
+2. **Authorized Spectrum:** Open-air testing is strictly reserved for authorized military or research ranges under the supervision of a Licensed Spectrum Manager.
+3. **No-Jam Policy:** Aegis-X is designed for **Logic Saturation** of non-cooperative threats, not the interference of authorized public safety or civilian communications.
 ---
 
 ## 📥 Installation & Quick Start
