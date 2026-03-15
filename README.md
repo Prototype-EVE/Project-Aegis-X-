@@ -1,12 +1,12 @@
 # 🛡️ Project Aegis-X: Sovereign Security Bridge
-### *Core Infrastructure of Project Phylax*
+### *Core Infrastructure of Project Aegis-X*
 
 ![License: Sovereign Peace](https://img.shields.io/badge/License-Sovereign%20Peace-gold.svg)
 ![Security: SHA-256](https://img.shields.io/badge/Security-SHA--256-blue.svg)
 ![Environment: macOS M2](https://img.shields.io/badge/Environment-macOS_M2-black.svg)
 
 ## 🌌 Overview
-**Project Aegis-X** is a sovereign-first intrusion detection and integrity monitoring system. Developed as a foundational component of **Project Phylax**, it focuses on decentralized security, biometric-first principles, and real-time forensic accountability. 
+**Project Aegis-X** is a sovereign-first intrusion detection and integrity monitoring system. Developed as a foundational component of **Project Aegis-X**, it focuses on decentralized security, biometric-first principles, and real-time forensic accountability. 
 
 This bridge provides a high-sensitivity "cockpit" for monitoring system integrity, neutralizing breaches, and conducting automated post-mortem analysis.
 
