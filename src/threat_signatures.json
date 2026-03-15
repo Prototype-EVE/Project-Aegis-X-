@@ -1,0 +1,42 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-03-15",
+  "signatures": [
+    {
+      "id": "ICBM-GNC-01",
+      "category": "Nuclear Guidance",
+      "target": "Inertial/Satellite Guidance Hub",
+      "frequency_mhz": 1575.42,
+      "signature_type": "DSSS",
+      "threat_level": "CRITICAL",
+      "protocol": "Terminal Logic Saturation (TLS)"
+    },
+    {
+      "id": "SARMAT-RES-X",
+      "category": "Nuclear Neutralization",
+      "target": "Resonant Clock Oscillator",
+      "frequency_mhz": 1420.4,
+      "signature_type": "Resonant CW",
+      "threat_level": "CRITICAL",
+      "protocol": "Resonance Induction"
+    },
+    {
+      "id": "UAV-CMD-24",
+      "category": "Drone Command",
+      "target": "FPV/Loitering Munition Link",
+      "frequency_mhz": 2450.0,
+      "signature_type": "FHSS",
+      "threat_level": "HIGH",
+      "protocol": "Adaptive Hopping Jam"
+    },
+    {
+      "id": "IED-RCIED-GSM",
+      "category": "Domestic Defense",
+      "target": "Cellular Trigger Uplink",
+      "frequency_mhz": 900.0,
+      "signature_type": "Burst",
+      "threat_level": "HIGH",
+      "protocol": "Broadband Muting"
+    }
+  ]
+}
