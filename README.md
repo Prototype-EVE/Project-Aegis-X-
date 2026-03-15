@@ -24,9 +24,12 @@ This project is released under the **Sovereign Peace License**.
 * **🕶️ Stealth-Mode Cockpit:** High-visibility, "Green-on-Black" terminal interface.
 * **🕵️ Automated Forensic Lab:** Integrated `aegis analyze` command for IoC extraction.
 * **📋 Mission Reporting:** Automated `MISSION_SUMMARY.md` generation.
-
 ---
-
+### **🛡️ Intelligence Layer: JSON Signature Library**
+Project Aegis-X utilizes a structured `threat_signatures.json` to enable instantaneous threat classification. 
+* **Dynamic Loading:** The AI Bridge can update signatures in real-time without rebooting the sensor.
+* **Forensic Matching:** The Black Box logs are cross-referenced against this library to provide "High-Confidence" proof of attack.
+  
 ## 🛠️ Technical Stack & Concepts
 This project demonstrates core competencies for **CompTIA A+, Network+, and Security+**:
 * **Integrity Control:** Hashing algorithms for non-repudiation.
