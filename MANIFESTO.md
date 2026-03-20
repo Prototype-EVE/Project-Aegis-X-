@@ -44,4 +44,4 @@ Prototype EVE is currently transitioning from a US-based R&D model to a **UK-Inc
 
 **Status:** Seeking UK Strategic Alignment & Technical Audit.
 
-**Signed:** *Alt. CunningRAM/Joel Garcia* **Date:** March 2026
+**Signed:** *Alt. CunningRAM/JRG* **Date:** March 2026
