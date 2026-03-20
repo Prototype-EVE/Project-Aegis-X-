@@ -27,6 +27,21 @@ Project Aegis-X is a **Defensive Security Project**. Any attempt to utilize this
 
 ---
 
-> "Privacy is not the power to hide things. It is the power to selectively reveal oneself to the world."
+# 🛡️ Prototype EVE: The Sovereign Defense Stack
+**An AI Maker, Not an AI Taker.**
+
+### **The Mission**
+Prototype EVE is a sovereign-first research and development suite dedicated to breaking the cycle of **Techno-Feudalism**. In an era where critical infrastructure is held hostage by foreign cloud monopolies and corporate-kinetic interests, we provide the **Third Way**: Decentralized, non-kinetic, and forensically auditable defense.
+
+### **The Sovereign Pillars**
+1. **Strategic Autonomy:** We reject "Intelligent Dependence." Our systems—Phylax, Aegis-X, and Phantom—are designed to run 100% on **Sovereign Silicon** (local M-series architecture) with zero external cloud dependencies.
+2. **Non-Kinetic Supremacy:** We prioritize the **Functional Kill (F-Kill)**. By utilizing resonant frequency logic ($E=hf$), we neutralize threats without escalating violence.
+3. **Forensic Integrity:** Every action is sealed in an immutable **SHA-256 Ledger**, ensuring that national defense remains a matter of mathematical truth, not political narrative.
+4. **Resilient Modeling:** Through Project Super-Earth, we simulate the survival of national infrastructure in "Extreme Disruption" scenarios, independent of foreign supercomputing labs.
+
+### **The UK Repatriation Initiative**
+Prototype EVE is currently transitioning from a US-based R&D model to a **UK-Incorporated Sovereign Entity**. We are aligning our intellectual property with the **UK Sovereign AI Unit (April 2026)** to support the UK's goal of becoming the fastest adopter of safe, domestic AI in the G7.
+
+**Status:** Seeking UK Strategic Alignment & Technical Audit.
 
 **Signed:** *Alt. CunningRAM/Joel Garcia* **Date:** March 2026
