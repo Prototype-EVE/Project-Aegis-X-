@@ -1,7 +1,7 @@
 # Project Aegis-X: The Sovereign Developer Manifesto
 **Version:** 1.0.0-Alpha  
 **Codename:** [REDACTED]  
-**Developer:** Alt. CunningRAM/Joel Garcia  
+**Developer:** Alt. CunningRAM/JRG 
 
 ---
 
